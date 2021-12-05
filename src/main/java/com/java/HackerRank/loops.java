@@ -33,7 +33,7 @@ public class loops {
 	
 	public static void main(String args[]) {
 		Scanner scanner=  new Scanner(System.in);
-		 System.out.println("Enter username");
+		 System.out.println("Enter number");
 
 		    int number = scanner.nextInt(); 
 		    
@@ -41,7 +41,7 @@ public class loops {
 		    {
 		    	for(int i=1;i<=10;i++)
 		    	{
-		    		System.out.println(number+"*"+i+"+"+(number*i));
+		    		System.out.println(number+"*"+i+"="+(number*i));
 		    	}
 		    }
 
