@@ -17,7 +17,7 @@ Note: If you use the nextLine() method immediately following the nextInt() metho
 this, the last newline character for that line of integer input is still queued in the input buffer and the next nextLine() will be
 reading the remainder of the integer line (which is empty). */
 
-package com.java;
+package com.java.HackerRank;
 import java.util.*;
 
 public class Stdin {

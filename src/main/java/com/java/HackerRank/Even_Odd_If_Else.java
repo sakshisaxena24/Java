@@ -30,7 +30,7 @@ Print Weird if the number is weird; otherwise, print Not Weird. */
 //
 //Print Weird if the number is weird; otherwise, print Not Weird.
 
-package com.java;
+package com.java.HackerRank;
 
 import java.util.Scanner;
 
